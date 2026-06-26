@@ -2,6 +2,11 @@
 
 <img src="confs.svg" alt="Geospatial Conferences logo" align="right" width="200" style="background:#fff; padding:6px 8px; border-radius:6px;">
 
+This repository contains the list of geospatial conferences for 2027. 
+For links to conference lists from other years, see [the main **Geospatial Conferences** repository](https://github.com/nowosad/geospatial-conferences). 
+
+> Contributions are welcome -- please open a pull request if you would like to add or update a conference.
+
 *Unless otherwise noted, conferences are in English.*
 
 ## Asia
