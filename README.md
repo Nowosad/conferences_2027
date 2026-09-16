@@ -15,7 +15,7 @@ For links to conference lists from other years, see [the main **Geospatial Confe
 
   <!-- - **(German)** 17. Geofachtag des Netzwerk GIS Sachsen-Anhalt e. V, Dessau, 18 February 2026 -->
   - The 30th AGILE Conference, https://agile-gi.eu/, Lund, 21--24 June 2026
-  - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exter, 14--16 June 2027
+  - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exeter, 14--16 June 2027
   - IGARSS 2027, https://2027.ieeeigarss.org/, Reykjavík, 11--16 July 2027
   - 33rd International Cartographic Conference, https://icc2027.org/, Warsaw, 18--23 July 2027
   - The ISPRS Geospatial Week, https://www.isprs.org/society/gsw.aspx, Warsaw, 19--24 September 2027
