@@ -23,6 +23,8 @@ For links to conference lists from other years, see [the main **Geospatial Confe
 
 ## North America
 
+  - North Carolina GIS Conference 2027, <https://ncgisconference.com/>, Winston Salem, NC, USA, 3-5 February 2027  
+
 ## Oceania
 
 ## South America
