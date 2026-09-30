@@ -11,6 +11,8 @@ For links to conference lists from other years, see [the main **Geospatial Confe
 
 ## Asia
 
+  - GIScience 2027, https://geods.github.io/GIScience2027/, Shanghai, 18--22 October 2027
+    
 ## Europe
 
   <!-- - **(German)** 17. Geofachtag des Netzwerk GIS Sachsen-Anhalt e. V, Dessau, 18 February 2026 -->
@@ -18,8 +20,8 @@ For links to conference lists from other years, see [the main **Geospatial Confe
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exeter, 14--16 June 2027
   - IGARSS 2027, https://2027.ieeeigarss.org/, Reykjavík, 11--16 July 2027
   - 33rd International Cartographic Conference, https://icc2027.org/, Warsaw, 18--23 July 2027
+  - FOSS4G 2027, https://2027.foss4g.org, Bristol, 23--29 August 2027
   - The ISPRS Geospatial Week, https://www.isprs.org/society/gsw.aspx, Warsaw, 19--24 September 2027
-  - GIScience 2027, https://geods.github.io/GIScience2027/, Shanghai, 18--22 October 2027
 
 ## North America
 
