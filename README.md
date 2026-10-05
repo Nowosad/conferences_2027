@@ -21,7 +21,7 @@ For links to conference lists from other years, see [the main **Geospatial Confe
   - GISRUK 2027, https://gisruk.org/gisruk-2027/, Nottingham, ?14--16 April 2027 
   - 46th EARSeL Symposium, https://symposium.earsel.org/46th-symposium-Turin/, Turin, 1--3 June 2027
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exeter, 14--16 June 2027
-  - The 30th AGILE Conference, https://agile-gi.eu/conference-2027, Lund, 21--24 June 2026
+  - The 30th AGILE Conference, https://agile-gi.eu/conference-2027, Lund, 21--24 June 2027
   - GeoAI 2027, https://2027.geoaiconference.org/, London, 29 June--2 July 2027
   - AGIT 2027, https://agit.at/en/, Salzburg, 7--8 July 2027
   - IGARSS 2027, https://2027.ieeeigarss.org/, Reykjavík, 11--16 July 2027
