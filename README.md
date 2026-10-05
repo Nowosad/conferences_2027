@@ -11,24 +11,34 @@ For links to conference lists from other years, see [the main **Geospatial Confe
 
 ## Asia
 
+  - GIScience 2027, https://geods.github.io/GIScience2027/, Shanghai, 18--22 October 2027
+
 ## Europe
 
   <!-- - **(German)** 17. Geofachtag des Netzwerk GIS Sachsen-Anhalt e. V, Dessau, 18 February 2026 -->
+  - **(German)** FOSSGIS 2027, https://fossgis-konferenz.de/2027/, Heidelberg, 9--13 March 2027
+  - EGU General Assembly 2027, https://www.egu27.eu/, Vienna, 4--9 April 2027
+  - GISRUK 2027, https://gisruk.org/gisruk-2027/, Nottingham, ?14--16 April 2027 
   - 46th EARSeL Symposium, https://symposium.earsel.org/46th-symposium-Turin/, Turin, 1--3 June 2027
-  - The 30th AGILE Conference, https://agile-gi.eu/, Lund, 21--24 June 2026
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exeter, 14--16 June 2027
+  - The 30th AGILE Conference, https://agile-gi.eu/conference-2027, Lund, 21--24 June 2026
+  - GeoAI 2027, https://2027.geoaiconference.org/, London, 29 June--2 July 2027
+  - AGIT 2027, https://agit.at/en/, Salzburg, 7--8 July 2027
   - IGARSS 2027, https://2027.ieeeigarss.org/, Reykjavík, 11--16 July 2027
   - 33rd International Cartographic Conference, https://icc2027.org/, Warsaw, 18--23 July 2027
+  - FOSS4G 2027, https://2027.foss4g.org/, Bristol, 23--29 August 2027
   - The ISPRS Geospatial Week, https://www.isprs.org/society/gsw.aspx, Warsaw, 19--24 September 2027
-  - GIScience 2027, https://geods.github.io/GIScience2027/, Shanghai, 18--22 October 2027
 
 ## North America
 
   - North Carolina GIS Conference 2027, <https://ncgisconference.com/>, Winston Salem, NC, USA, 3-5 February 2027  
+  - NSGIC Annual Conference 2027, https://nsgic.org/events/2027-nsgic-annual-conference/, Oklahoma City, OK, USA, 19--24 September 2027
 
 ## Oceania
 
 ## South America
+  
+  <!-- - State of the Map 2027, https://2027.stateofthemap.org/, Bogotá, July 2027 -->
 
 ## Similar lists
 
@@ -37,3 +47,4 @@ For links to conference lists from other years, see [the main **Geospatial Confe
 - [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
 - [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities
 - [Geomob events](https://thegeomob.com/events)
+
