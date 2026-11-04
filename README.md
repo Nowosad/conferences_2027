@@ -18,7 +18,8 @@ For links to conference lists from other years, see [the main **Geospatial Confe
   <!-- - **(German)** 17. Geofachtag des Netzwerk GIS Sachsen-Anhalt e. V, Dessau, 18 February 2026 -->
   - **(German)** FOSSGIS 2027, https://fossgis-konferenz.de/2027/, Heidelberg, 9--13 March 2027
   - EGU General Assembly 2027, https://www.egu27.eu/, Vienna, 4--9 April 2027
-  - GISRUK 2027, https://gisruk.org/gisruk-2027/, Nottingham, ?14--16 April 2027 
+  - GISRUK 2027, https://gisruk.org/gisruk-2027/, Nottingham, ?14--16 April 2027
+  - Geomorphometry 2027, https://www.geomorphometry.org/2027/, Doorwerth, 31 May -- 3 June 2027
   - 46th EARSeL Symposium, https://symposium.earsel.org/46th-symposium-Turin/, Turin, 1--3 June 2027
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exeter, 14--16 June 2027
   - The 30th AGILE Conference, https://agile-gi.eu/conference-2027, Lund, 21--24 June 2027
