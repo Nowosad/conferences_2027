@@ -28,6 +28,7 @@ For links to conference lists from other years, see [the main **Geospatial Confe
   - IGARSS 2027, https://2027.ieeeigarss.org/, Reykjavík, 11--16 July 2027
   - 33rd International Cartographic Conference, https://icc2027.org/, Warsaw, 18--23 July 2027
   - FOSS4G 2027, https://2027.foss4g.org/, Bristol, 23--29 August 2027
+  - European Colloquium on Theoretical and Quantitative Geography (ECTQG) 2027, https://ectqg2027.sciencesconf.org/, Avignon, 31 August--4 September 2027
   - The ISPRS Geospatial Week, https://www.isprs.org/society/gsw.aspx, Warsaw, 19--24 September 2027
 
 ## North America
